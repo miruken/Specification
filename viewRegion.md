@@ -1,4 +1,0 @@
->viewRegion
-
-##Methods
-show(view)
