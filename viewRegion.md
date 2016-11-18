@@ -1,4 +1,4 @@
 >viewRegion
 
-###Methods
+##Methods
 show(view)
