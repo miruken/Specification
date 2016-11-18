@@ -1,2 +1,2 @@
-## The Miruken Specification
+# The Miruken Specification
 > Miruken handles()'s your application!
