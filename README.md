@@ -2,19 +2,14 @@
 > Miruken handles()'s your application!
 
 ## What does Miruken mean?
-Miruken means "a view of a view" or composition. We enable composition of your code and you user interface.  Miru and ken are Japanese words which mean perceive, see, observe, behold or view.  Put miru and ken together and you have **Miruken**.
+Miru and ken are Japanese words which mean perceive, see, observe, behold or view.  Put miru and ken together and you have **Miruken**.  Miruken means "a view of a view" or composition. We enable composition of your code and you user interface.  
 
-###miru, ken
-
-### 見
+###miru, ken 見
 
 * perceive
 * see, observe, behold
 * view
 
-[Drawing the Japanese symbol for miru](https://www.youtube.com/embed/ufFrW3WE784)
+[Learn to draw the Japanese symbol for miru, ken](https://www.youtube.com/embed/ufFrW3WE784)
 
-[Kanji](http://www.sayjack.com/learn/japanese/vocabulary/23802/)
-
-[Miru, Ken definitions](https://en.wiktionary.org/wiki/%E8%A6%8B%E3%82%8B)
 
