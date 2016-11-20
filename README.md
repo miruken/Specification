@@ -11,6 +11,6 @@
 
 Miru and ken are Japanese words. Put them together and you have **Miruken**.  It means "a view of a view" and alludes to composition.  
 
-[Learn to draw the Japanese symbol for miru, ken](https://www.youtube.com/embed/ufFrW3WE784)
+<a href="https://www.youtube.com/embed/ufFrW3WE784" target="_blank">Learn to draw the Japanese symbol for miru, ken</a>
 
 
