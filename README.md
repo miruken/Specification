@@ -6,10 +6,11 @@ Miruken means "a view of a view" or composition. We enable composition of your c
 
 ###miru, ken
 
-<strong class="aux">見</strong>
+### 見
 
 * perceive
 * see, observe, behold
+* view
 
 [Drawing the Japanese symbol for miru](https://www.youtube.com/embed/ufFrW3WE784)
 
