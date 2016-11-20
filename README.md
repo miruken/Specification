@@ -9,7 +9,7 @@
 * see, observe, behold
 * view
 
-Miru and ken are Japanese words which mean perceive, see, observe, behold or view.  Put miru and ken together and you have **Miruken**.  Miruken means "a view of a view" or composition. We enable composition of your code and your UI.  
+Miru and ken are Japanese words. Put miru and ken together and you have **Miruken**.  It means "a view of a view" and alludes to composition.  
 
 [Learn to draw the Japanese symbol for miru, ken](https://www.youtube.com/embed/ufFrW3WE784)
 
