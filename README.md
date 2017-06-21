@@ -9,7 +9,7 @@ Miruken is an application framework that embraces composition, convention, decor
 
 ## What does Miruken mean?
 
-###miru, ken 見
+### miru, ken 見
 
 * perceive
 * see, observe, behold
