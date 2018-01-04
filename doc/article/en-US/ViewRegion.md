@@ -1,4 +1,0 @@
-#ViewRegion
-
-##Methods
-###show(view)

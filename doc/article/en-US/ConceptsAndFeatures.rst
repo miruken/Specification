@@ -1,9 +1,13 @@
-#Concepts And Features
+=====================
+Concepts And Features
+=====================
 
-## Concepts
+Concepts
+========
 
 Create very few concepts that do all the hard work.
 
-## Features
+Features
+========
 
 Create many features base on those few concepts.

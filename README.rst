@@ -1,41 +1,20 @@
-=====================
-Miruken Documentation
-=====================
+# The Miruken Specification
+> Miruken handles()'s your application!
 
-This repo rolls up all the miruken documentation into a single place. It is intented to be 
-consumed by our automated build server.
+## What is Miruken
 
-It expects a very specific folder structure.
-.. code::
-  .
-  |-- miruken
-  |   |-- Documentation
-  |   |-- miruken.github.io
-  |
-  |-- miruken-es5
-  |   |-- miruken
-  |
-  |-- miruken-dotnet
-      |-- Miruken
-      |-- Miruken.Mediate
-      |-- Miruken.Mvc
-      |-- SymbolDownloader
+Miruken is an application framework that embraces composition, convention, decoration, intention, and aspect-oriented programming.
 
-The built documentation is hosted on `Miruken.com <http://miurken.com/documentation/master>`_ 
+**Inversion of Control** is the principle that separates a framework from an API.  Miruken leverages the dynamic and object oriented capabilities of programming languages.  Miruken focuses on the challenges surrounding **models** and **controllers**. It does all the heavy lifting of mapping, validation, and error handling. Other frameworks have the **view** covered.  
 
-reStructuredText (reST)
------------------------
+## What does Miruken mean?
 
-This documentation is written with 
-`reStructuredText <http://docutils.sourceforge.net/docs/user/rst/quickstart.html>`_
-and 
-`Sphinx <http://www.sphinx-doc.org/>`_
+### miru, ken 見
 
-How to include source code in docs 
+* perceive
+* see, observe, behold
+* view
 
-* http://docutils.sourceforge.net/docs/ref/rst/directives.html#include
-* http://sphinx.readthedocs.io/en/stable/markup/code.html#directive-literalinclude
-  
+Miru and ken are Japanese words that both mean "view". Put them together and you have **Miruken**.  It means "a view of a view" and alludes to composition.  
 
-
-
+[Learn to draw the Japanese symbol for miru, ken](https://www.youtube.com/embed/ufFrW3WE784)
